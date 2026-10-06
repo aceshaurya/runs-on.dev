@@ -18,6 +18,9 @@
     },
     "privacy": {
       "CNAME": "expensepalacc.netlify.app"
+    },
+    "cipher": {
+      "CNAME": "fascinating-truffle-1d4ae8.netlify.app"
     }
   }
 }
