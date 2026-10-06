@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "3b537fe67013cdd4.vercel-dns-017.com"
   },
-  "country": "HU",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=pergamen.runs-on.dev,dbc59d23c9bf7c84a17b"
-      ]
-    }
-  }
+  "country": "HU"
 }

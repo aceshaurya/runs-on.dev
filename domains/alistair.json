@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "80f5c49c25590975.vercel-dns-017.com"
   },
-  "country": "PH",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=alistair.runs-on.dev,84b67e1f6b7443db2076"
-      ]
-    }
-  }
+  "country": "PH"
 }
