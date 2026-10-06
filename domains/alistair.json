@@ -11,7 +11,7 @@
   "subdomains": {
     "_vercel": {
       "TXT": [
-        "vc-domain-verify=alistair.runs-on.dev,ce787b181aa7cdbf19aa"
+        "vc-domain-verify=alistair.runs-on.dev,84b67e1f6b7443db2076"
       ]
     }
   }
