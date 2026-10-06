@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "89885050d6c8a803.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=gitty.runs-on.dev,d966c0cb0662020dd81a"
+      ]
+    }
+  }
 }
