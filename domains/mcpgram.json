@@ -5,12 +5,7 @@
   },
   "claimedAt": "2026-09-17T03:41:16.689Z",
   "records": {
-    "A": [
-      "76.76.21.21"
-    ],
-    "TXT": [
-      "025ffd621c9b5b08.vercel-dns-017.com."
-    ]
+    "URL": "https://mcpgram.vercel.app"
   },
   "country": "IN",
   "profile": {
