@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "fa1330e3da29c1eb.vercel-dns-017.com"
   },
-  "country": "PK"
+  "country": "PK",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=codeharbor.runs-on.dev,2fe0e6bde222440e7c10"
+      ]
+    }
+  }
 }
