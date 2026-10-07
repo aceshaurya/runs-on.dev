@@ -27,6 +27,9 @@
       "TXT": [
         "vc-domain-verify=mcpgram.runs-on.dev,0fe81a793218050b80e8"
       ]
+    },
+    "zmverify": {
+      "CNAME": "zb99151854.mcpgram"
     }
   }
 }
