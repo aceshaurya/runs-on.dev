@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "c865a69f0ecd72a1.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=kavya.runs-on.dev,a87f1ee5b2ea07a45956"
-      ]
-    }
-  }
+  "country": "IN"
 }
