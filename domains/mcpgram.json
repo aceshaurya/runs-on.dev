@@ -14,5 +14,12 @@
         "url": "https://github.com/Aryan418-dev"
       }
     ]
+  },
+  "subdomains": {
+    "mcpgram": {
+      "TXT": [
+        "zb99151854.zmverify.zoho.in"
+      ]
+    }
   }
 }
